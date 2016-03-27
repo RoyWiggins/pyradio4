@@ -1,0 +1,738 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"url",
+				"urlCityTiledOrthoLayer"
+			],
+			[
+				"win",
+				"window"
+			],
+			[
+				"to_",
+				"to_vec"
+			],
+			[
+				"u",
+				"usize"
+			],
+			[
+				"com",
+				"compileStack"
+			],
+			[
+				"println",
+				"println!	println! …"
+			],
+			[
+				"p",
+				"println!	println! …"
+			],
+			[
+				"fi",
+				"font-variant"
+			],
+			[
+				"in",
+				"inline-table"
+			],
+			[
+				"table",
+				"table-header-group"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"sub",
+				"subRedditLibrary"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"toLo",
+				"toLowerCase"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "y9Cu2kr9\n\nsox -t mp3 http://uwstream2.somafm.com:8000 -t wav -  | sudo ./pi_fm_rds -freq 95.1 -audio -",
+			"settings":
+			{
+				"buffer_size": 102,
+				"line_ending": "Windows",
+				"name": "y9Cu2kr9"
+			}
+		},
+		{
+			"file": "pyradio4.py",
+			"settings":
+			{
+				"buffer_size": 8255,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Roy/Desktop/iPlayer Recordings/playlist.m3u",
+			"settings":
+			{
+				"buffer_size": 1223,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Roy/Desktop/crashplan.csv",
+			"settings":
+			{
+				"buffer_size": 2056245,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "First broadcast on Feb 5th 1924, the BBC's Greenwitch Time Signal has <a href=\"http://www.miketodd.net/other/gts.htm\">collected some history</a>. Otherwise known as <a href=\"https://soundcloud.com/onlinetonegenerator/the-pips-greenwich-time-signal\">the pips</a>, they have marked the hour with six (<a href=\"http://news.bbc.co.uk/2/hi/science/nature/7791709.stm\">or seven</a>) beeps for <a href=\"https://audioboom.com/boos/1879003-greenwich-pips-history-and-present-from-inside-science\">over 90 years</a>. \n\nSometimes, <a href=\"http://www.telegraph.co.uk/culture/tvandradio/8548683/The-mystery-of-the-missing-Radio-4-pips.html\">the pips go missing entirely</a>, throwing the BBC and its listeners off-kilter. Sometimes the pips arrive on time, but the merely human announcers \"crash the pips\" by <a href=\"https://www.youtube.com/watch?v=m6CbN9bPyuo\">talking over them</a>. In 2014, Radio 4 celebrated their 90th birthday in <a href=\"https://www.youtube.com/watch?v=SeBcOG6vMi0\">musical fashion</a>.\n\n<a href=\"https://audioboom.com/boos/651241-the-pips-medley-greenwich-time-signal\">A short medley of announcers playing with, yelling at, and missing the pips</a>.\n\nTiming aside, the tone of the pips has drifted over the years. In 1993, Dr Carl Dolmetsch, <a href=\"http://www.independent.co.uk/news/people/obituary-carl-dolmetsch-1250692.html\">recorder virtuoso</a>, noticed that it had dropped by a semitone from B natural to B flat, <a href=\"http://andywalmsley.blogspot.com/2012/03/time-signal.html\">causing a minor media sensation</a> and resulting in BBC engineers restoring them to their proper 1000 Hz. Sadly, with the advent of digital radio, <a href=\"http://www.telegraph.co.uk/culture/tvandradio/bbc/11419080/Sad-farewell-toodle-oo-and-pip-pip-to-the-pips.html\">the pips are permanently delayed</a>. Today, Project Pippa hopes to <a href=\"http://bhi.co.uk/project-pippa-is-looking-for-volunteers/\">refurbish</a> the <a href=\"http://www.gettyimages.com/detail/video/technician-works-in-the-greenwich-time-service-stock-video-footage/mr_00106104\">GTS Machine</a>.\n\nThe AudioBoom links above were lifted from a <a href=\"http://davidlloyd-radio.blogspot.com/2013/02/pip-pip-peeep.html\">blog post</a> from David Lloyd.\n\nThe June 2015 Leap Second was recorded by \n\nAlso:\n\n<a href=\"http://podacademy.org/podcasts/nocturne/\">A nocturne inspired by the Shipping Forecast</a>\n\nDropping it into the <a href=\"https://the.wubmachine.com/\">Wubmachine</a> results in some <a href=\"http://vocaroo.com/i/s0YkAcP3wxMm\">pretty sick beats</a>. The pips can be heard in the BBC News Theme, but more excitingly, in <a href=\"https://www.youtube.com/watch?v=mLJsGphU1VI\">Bill Bailey's version</a>.",
+			"settings":
+			{
+				"buffer_size": 2682,
+				"line_ending": "Windows",
+				"name": "First broadcast on Feb 5th 1924, the BBC's Greenwi"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "Package Control: insta",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 168.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Roy/Documents/Rust/Forth"
+	],
+	"file_history":
+	[
+		"/C/Users/Roy/Documents/get_iplayer-2.94/get_iplayer.cgi",
+		"/C/Users/Roy/.get_iplayer/download_history",
+		"/C/Users/Roy/Desktop/iPlayer Recordings/concat",
+		"/C/Users/Roy/Desktop/iPlayer Recordings/burned.m4a",
+		"/C/Users/Roy/Documents/GitHub/pyradio4/pyradio4.py",
+		"/C/Users/Roy/Desktop/iPlayer Recordings/playlist.m3u",
+		"/C/Users/Roy/.ipython/profile_default/startup/README",
+		"/C/Users/Roy/.ipython/profile_default/startup/magic.py",
+		"/C/Program Files (x86)/get_iplayer/get_iplayer.pl",
+		"/C/Users/Roy/Documents/get_iplayer-2.94/windows/get_iplayer/get_iplayer.cgi.cmd",
+		"/D/GOG Games/Star Wars - Galactic Battlegrounds/Game/ddhack.cfg",
+		"/E/config.txt",
+		"/E/overlays/README",
+		"/C/_jcwDev/SnowIceResponseMap_1119/js/config.js",
+		"/C/_jcwDev/SnowIceResponseMap_1119/js/mapControl.js",
+		"/C/_jcwDev/LeafletTests/ProjectOnTheFly.html",
+		"/C/_jcwDev/esri-leaflet-2.0.0-beta.6/debug/sample.html",
+		"/C/_jcwDev/esri-leaflet-2.0.0-beta.6/README.md",
+		"/C/_jcwDev/dist/esri-leaflet.js",
+		"/C/_jcwDev/LeafletTests/FeatureLayerTests.html",
+		"/D/JimFiles/clearstreets-web-master/views/playback.haml",
+		"/D/JimFiles/clearstreets-web-master/lib/fusion_template/html_helpers.rb",
+		"/D/JimFiles/clearstreets-web-master/lib/fusion_template/application.rb",
+		"/D/Games/Fallout 4/steam_api64.cdx",
+		"/C/Users/Roy/AppData/Local/Temp/7zOA3F.tmp/README.md",
+		"/C/_jcwDev/LeafletTests/WWPopup.html",
+		"/C/Users/Roy/Desktop/crashplan.csv",
+		"/C/Users/Roy/AppData/Local/Google/Chrome/User Data/Default/Local Storage/http_memecrunch.com_0.localstorage",
+		"/C/_dev/calcite-maps-master/demos/esri-leaflet.html",
+		"/C/_dev/WinterWeatherMapInternal2015/RWIS_Grouped_iframe.html",
+		"/C/_dev/ww2015_11102015/js/config.js",
+		"/C/_dev/calcite-maps-master/index.html",
+		"/D/_JCW_FromRoyMachine_10252015/_dev/EsriLeaflet/LeafletStarter.html",
+		"/C/_dev/WinterWeatherMapInternal_DeployToTest/winterweather.css",
+		"/C/_dev/WinterWeatherMapInternal2015/winterweather.htm",
+		"/C/_dev/WinterWeatherMapInternal2015/RWIS_Bar_iframe.html",
+		"/C/_dev/WinterWeatherMapInternal_DeployToTest/contacts.htm",
+		"/C/_dev/WinterWeatherMapInternal_DeployToTest/faq.htm",
+		"/C/Users/Roy/Downloads/pharmacy_claim.csv",
+		"/C/_dev/WinterWeatherMapInternal2015/js/config.js",
+		"/C/_dev/WinterWeatherMapInternal2015/js/mapControl.js",
+		"/C/_dev/WinterWeatherMapInternal2015/js/mapControl.js~",
+		"/C/_dev/WinterWeatherMapInternalProd/js/mapControl.js",
+		"/C/_dev/WinterWeatherMapInternal/RWIS_MouseOver.html",
+		"/C/_dev/WinterWeatherMapInternal/WinterWeatherHover.html",
+		"/C/_dev/WinterWeatherMapInternal/js/mapControl.js",
+		"/C/Users/Roy/Documents/Rust/Forth/src/main.rs",
+		"/C/_dev/WinterWeatherMapInternalProd/winterweather.htm",
+		"/C/jcwtransfer/_dev/WinterWeather/RWIS_Bootstrap/demo/jquery/RWIS_Modal.html",
+		"/C/_dev/WinterWeatherMapInternalProd/js/config.js",
+		"/C/jcwtransfer/_dev/WinterWeather/RWIS_Modals/index4.html",
+		"/C/Users/Roy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/jcwtransfer/_dev/WinterWeather/RWIS_Bootstrap/demo/jquery/RWIS_grid.html",
+		"/C/_dev/WinterWeatherMapInternal/popindex.html",
+		"/C/_dev/WinterWeatherMapInternal/js/config.js",
+		"/C/jcwtransfer/_dev/WinterWeather/RWIS_Bootstrap/demo/jquery/contacts.htm",
+		"/C/jcwtransfer/_dev/WinterWeather/RWIS_Bootstrap/demo/jquery/disclaimer.htm",
+		"/C/jcwtransfer/_dev/WinterWeather/RWIS_Bootstrap/demo/jquery/howto.htm",
+		"/C/jcwtransfer/_dev/WinterWeather/RWIS_Bootstrap/demo/jquery/faq.htm",
+		"/C/jcwtransfer/_dev/jsbootstrap1-master/Ch 04/Chapter_4/index.html",
+		"/C/jcwtransfer/_dev/WinterWeather/RWIS_Bootstrap/demo/jquery/windowsAccordion.html",
+		"/C/jcwtransfer/_dev/WinterWeather/RWIS_Bootstrap/demo/jquery/windowsAccordionRight.html",
+		"/C/jcwtransfer/_dev/WinterWeather/RWIS_Bootstrap/demo/jquery/RWIS_Index.html",
+		"/C/jcwtransfer/_dev/WinterWeather/RWIS_Bootstrap/demo/jquery/windows.html",
+		"/C/jcwtransfer/_dev/WinterWeather/RWIS_Modals/Incidents_Hover_Modals.html",
+		"/C/jcwtransfer/_dev/WinterWeather/RWIS_Modals/index3.html",
+		"/C/jcwtransfer/_dev/WinterWeather/WinterWeatherMapInternal/WinterWeatherHowToUseThisMap.htm",
+		"/C/jcwtransfer/_dev/WinterWeather/flHover/Incidents_Hover.html",
+		"/C/Users/Roy/PACKT.BUILDING.MACHINE.LEARNING.SYSTEMS.WITH.PYTHON.2ND.EDITION.2015.RETAIL.EBOOK-kE/ke.nfo",
+		"/D/JimFiles/EsriPopup/index.html",
+		"/C/jcwtransfer/ESRIPopUp/css/popup_css_pretty.css",
+		"/C/jcwtransfer/ESRIPopUp/css/modernGrey.css",
+		"/C/jcwtransfer/_dev/Bootbox1.html",
+		"/C/jcwtransfer/_dev/RWIS_windows.html",
+		"/C/jcwtransfer/EsriLeaflet/LeafletStarter.html",
+		"/C/jcwtransfer/ESRIPopUp/index.html",
+		"/C/jcwtransfer/WinterWeather/CedarExample.html",
+		"/C/Users/Roy/Downloads/sharepoint.py",
+		"/C/Users/Roy/Downloads/Seattle_Collision_Data__SDOT_.csv",
+		"/C/Users/Roy/Downloads/tst.html",
+		"/C/jcwtransfer/imaps-ng-master/README.md",
+		"/C/jcwtransfer/cmv/viewer/js/config/viewer.js",
+		"/C/jcwtransfer/cmv/README.md",
+		"/C/Users/Roy/Downloads/RWIS_windows.html",
+		"/D/JCW_07042015/baby-master/project.clj",
+		"/D/JCW_07042015/baby-master/src/baby/core.clj",
+		"/D/JCW_07042015/baby-master/test/baby/core_test.clj",
+		"/D/JCW_07042015/fuzz-master/test/fuzz/core_test.clj",
+		"/C/Users/Roy/Downloads/TestServiceUp - SDOT.html",
+		"/C/Users/Roy/Downloads/TestServiceUp - SDOT (1).html",
+		"/C/Users/Roy/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/From Black WD Twin/From CS Lab/Wigginsr/cs251-f11-ricotta/interpreter/interpreter.c",
+		"/D/From Black WD Twin/From CS Lab/Wigginsr/cs251-f11-ricotta/interpreter/linkedlist.c",
+		"/D/From Black WD Twin/From CS Lab/Wigginsr/cs251-f11-ricotta/interpreter/parse.c",
+		"/D/From Black WD Twin/From CS Lab/Wigginsr/cs251-f11-ricotta/interpreter/tokenizer.c",
+		"/D/Downloads/Video/New folder/Jonathan Strange and Mr Norrell S01E01 - GHOST DOG/Jonathan Strange & Mr Norrell S01E01 - The Friends of English Magic - GHOST DOG.srt",
+		"/C/Users/Roy/Downloads/transactions.csv",
+		"/C/Users/Roy/Documents/Rust/Forth/Cargo.toml",
+		"/C/Users/Roy/Documents/Rust/Forth/src/lib.rs",
+		"/D/From Black WD Twin/From CS Lab/Wigginsr/cs251-f11-ricotta/interpreter/load.c",
+		"/D/From Black WD Twin/From CS Lab/Wigginsr/cs251-f11-ricotta/interpreter/primitives.c",
+		"/C/Users/Roy/Downloads/BillingEnergyData.csv",
+		"/D/From Black WD Twin/From CS Lab/Wigginsr/cs251-f11-ricotta/interpreter/readme.txt",
+		"/D/From Black WD Twin/Copied off Family Computer/From -750Gig- drive under -Jim from iomega-/My Documents/roymudstuff/system/mudtitle.ans",
+		"/D/From Black WD Twin/Copied off Family Computer/From -750Gig- drive under -Jim from iomega-/My Documents/logostuff/random flower.LGO",
+		"/D/From Black WD Twin/extracted/CS grading/CS204 f10/xml/test.py",
+		"/C/Users/Roy/AppData/Local/Temp/7zE8512.tmp/README.txt",
+		"/D/Downloads/Video/Movies/Untitled0.ipynb",
+		"/D/Downloads/Video/Anno.2070-RELOADED/reloaded.nfo",
+		"/C/Users/Roy/Documents/asdf/main.js",
+		"/C/Users/Roy/Documents/names.py",
+		"/C/Users/Roy/Documents/asdf/merged.json",
+		"/C/Users/Roy/Documents/asdf/db4.json",
+		"/D/MWSDK/Ogre-1.9/bin/debug/metalua.mlua",
+		"/C/Users/Roy/Documents/asdf/css/custom.css",
+		"/C/Python27/Lib/site-packages/moviepy-0.2.2.11-py2.7.egg/moviepy/config.py",
+		"/C/Users/Roy/Documents/asdf/load.js",
+		"/C/Users/Roy/Documents/asdf/index.html",
+		"/D/MWSDK/Ogre-1.9/bin/debug/mwtolua.lua",
+		"/D/MWSDK/Ogre-1.9/bin/debug/functions.txt",
+		"/D/MWSDK/Ogre-1.9/bin/debug/mwscript.txt",
+		"/C/Users/Roy/Documents/My Games/openmw/settings.cfg",
+		"/D/MWSDK/Ogre-1.9/bin/debug/luabalanced.lua",
+		"/D/MWSDK/Ogre-1.9/bin/debug/lib.lua",
+		"/C/Users/Roy/Documents/My Games/openmw/openmw.cfg",
+		"/C/Program Files (x86)/ClockworkMod/Universal Adb Driver/usb_driver/android_winusb.inf",
+		"/C/Users/Roy/Documents/asdf/custom.css",
+		"/C/Python27/Lib/site-packages/moviepy-0.2.2.11-py2.7.egg/moviepy/config_defaults.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    ",
+			"__b06z4w86_original",
+			"m4a",
+			"_default",
+			"default",
+			".*_default.*\\n",
+			".*_podcast.*\\n",
+			"b06z2v5z",
+			"the world",
+			"   ",
+			"^\\W*,.*\\n",
+			"^\\W*,.*",
+			"esri",
+			"tocCivicCheck",
+			"center",
+			"panel-body",
+			"mapLe",
+			"map",
+			"RWISChart1",
+			"mapLeft",
+			"mapleft",
+			"left",
+			"!</",
+			">\n",
+			"accordion",
+			"id=\"accordion",
+			"Test",
+			"collapse",
+			"mapDiv",
+			"h4",
+			"blah",
+			"map",
+			"container",
+			"col",
+			"div>",
+			"map",
+			"Starb",
+			"Trigger",
+			"Trigg",
+			"Trigger mod",
+			"button",
+			"to O",
+			"trigger",
+			"Current",
+			"Temp",
+			"grouped",
+			"title",
+			"trigg",
+			"ifra",
+			"ifthen(",
+			"then(",
+			"*toloc",
+			"*loc",
+			"endif",
+			".clone",
+			"Rc::new",
+			"&word",
+			"runtime_words",
+			"gt",
+			"usize",
+			"Integer",
+			"usize",
+			"Words",
+			"wordMap",
+			"push",
+			"((push",
+			"rc",
+			"Cell",
+			"push",
+			"(push",
+			"Words",
+			"((",
+			"compileValue",
+			"> ",
+			"Word",
+			" {}\",",
+			"…",
+			"HANSENtable",
+			"7093.",
+			"\"credit\"",
+			"1,070",
+			"income",
+			"rent\"",
+			" .",
+			"display:",
+			">\n",
+			"resolveValue",
+			"font-size",
+			".added",
+			"th\"",
+			"auto",
+			"rated",
+			"\"detail",
+			"font-size",
+			"color:",
+			"Title",
+			"ListRow",
+			"log(",
+			"Setting",
+			"neiroMaruTitles",
+			"detail",
+			"Detail",
+			"Anna",
+			"Elsa Role",
+			"reversedEnum",
+			"Length",
+			"data",
+			"getTitles",
+			"helping hands",
+			"Frozen\"",
+			"\"\n",
+			",\n",
+			"Sccumbre",
+			"expando",
+			"Endorsed",
+			")\n",
+			"\"),",
+			"resolveValue",
+			"Complete",
+			"elsStoriesList",
+			"Title",
+			"k",
+			"'))",
+			"fuzzy",
+			"title",
+			"story",
+			"))\n",
+			"length"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"i32",
+			"runtime_words",
+			"Rc",
+			"RefCell",
+			"Words<'a>",
+			"CompileValue",
+			"\\n      ",
+			"",
+			">",
+			"",
+			"<a href=\\\\\"\\1\\\\\">",
+			"<a href=\\\"\\1\\\">",
+			"\"FF\": \"\\1\"",
+			"\"\\1\": \\{",
+			"\"Anna Role\":\"\\1\",\"Content\":\"\\2\",\"Kincaid\":\"\\3\",\"Summary\":\"\\4\", \"Comments\":\"\\5\" },",
+			"\\2: { \"FF\": \"\\1\", \"Author\":\"\\3\", \"Length\":\"\\4\", \"Complete\":\"\\5\", \"AU\":\"\\6\", \"Incest\":\"\\7\", \"Elsa Role\":\"\\8\", \"Elsa Powers\":\"\\9\", ",
+			"\\2: { \"FF\": \"\\1\", \"Author\":\"\\3\", \"Length\":\"\\4\", \"Complete\":\"\\5\", \"AU\":\"\\6\", \"Incest\":\"\\7\", \"Elsa Role\":\"\\8\", \"Elsa Powers\":\"\\9\", \"Anna Role\":\"\\10\",\"Content\":\"\\11\",\"Kincaid\":\"\\12\",\"Summary\":\"\\13\", \"Comments\":\"\\14\" },",
+			"\\1: { \"FF\": \"\\1\", \"Author\":\"\\2\", \"Length\":\"\\3\", \"Complete\":\"\\4\", \"AU\":\"\\5\", \"Incest\":\"\\6\", \"Elsa Role\":\"\\7\", \"Elsa Powers\":\"\\8\", \"Anna Role\":\"\\9\",\"Content\":\"\\10\",\"Kincaid\":\"\\11\",\"Summary\":\"\\12\", \"Comments\":\"\\13\" },",
+			"\\1: { \"FF\": \"(.*?)\", \"Author\":\"(.*?)\"",
+			"",
+			"'",
+			"\"\\1\": { \"FF\": \"\\2\", \"AO3\": \"\\3\", \"Other\": \"\\4\" },\\n",
+			"\"\\1\": { \"FF\": \\2, \"AO3\": \\3, \"Other\": \\4 },\\n",
+			"\"\\1\": { \"FF\": \\2, \"AO3\": \\3, \"Other\": \\4 },",
+			"\\1\",\\2",
+			"GetButtonPressed\\(\\1\\)",
+			"\\(\\1\\)",
+			"GetPCRank\\(\\1\\)",
+			"\\(\\1\\)",
+			"\\1",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"auto_name": "y9Cu2kr9",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pyradio4.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8121,
+								8121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3614.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Roy/Desktop/iPlayer Recordings/playlist.m3u",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Roy/Desktop/crashplan.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2056245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								394596,
+								394596
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 134895.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2682,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2682,
+								2682
+							]
+						],
+						"settings":
+						{
+							"auto_name": "First broadcast on Feb 5th 1924, the BBC's Greenwi",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 29.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pyradio4.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 121.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
